@@ -69,21 +69,26 @@ body{
     box-shadow: 0px 1px 3px 0px grey;
 }
 .clear{
-    background-color: #CD1818;
+    background-color: #DF2E38;
+    color:#fff;
 }
 .delete{
-    background-color: #FFD93D;
-    color: black;
+    background-color: #000;
+    color: green;
 }
 .num{
     background-color: #000000;
     color: white;
 }
 .mod,.divide,.multiply,.addition,.subtraction,.dot,.bracket,.equal{
-    background-color: #0B2447;
-    color: white;
+    background-color: black;
+    color: green;
 }
 .name{
     font-weight: bold;
     letter-spacing: .2rem;
+}
+.equal{
+    background-color: #F86F03;
+    color: black;
 }
